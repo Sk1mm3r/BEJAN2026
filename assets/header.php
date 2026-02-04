@@ -12,6 +12,7 @@
         <nav>
             <a href="index.php">Home</a>
             <a href="simpleinterest.php">Simple Interest</a>
+            <a href="loanCalculator.php">Loan Calculator</a>
             <a href="compoundint.php">Compound Interest</a>
             <a href="bmi-calculator.php">BMI Calculator</a>
         </nav>
